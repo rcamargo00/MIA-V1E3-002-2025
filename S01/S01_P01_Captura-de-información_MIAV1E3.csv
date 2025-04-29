@@ -1,0 +1,36 @@
+Nro,Nombre,Edad,Peso,Altura,Conocimiento_BigData,Conocimiento_SIG,Lenguajes,Dominio_lenguajes,Preferencia_entorno,Ciudad,Genero,Nivel_python,Menejo_Collab,Habiliad_programacion
+1,Persona 1,31,52.46,1.5,Medio,Nulo,"Python, JavaScript, C#, Otros",Otro,Visual Studio Code,Cochabamba,Femenino,Intermedio,Intermedio,Intermedio
+2,Persona 2,31,67,1.67,Bajo,Medio,"JavaScript, PHP",JavaScript,Visual Studio Code,Cochabamba,Masculino,Básico,Básico,Avanzado
+3,Persona 3,45,72,1.8,Bajo,Medio,"Python, JavaScript, C++, PHP, Otros",JavaScript,Visual Studio Code,Tarija,Masculino,Básico,Básico,Intermedio
+4,Persona 4,31,102,1.82,Nulo,Nulo,"Python, JavaScript, C#, Otros",C#,Visual Studio Code,Santa Cruz de la Sierra,Masculino,Intermedio,Básico,Avanzado
+5,Persona 5,33,70,1.63,Medio,Nulo,"Python, C#, PHP, Otros",Python,Otro,Santa Cruz de la Sierra,Masculino,Intermedio,Intermedio,Intermedio
+6,Persona 6,33,103.2,1.78,Bajo,Bajo,"Python, C#, PHP",PHP,Visual Studio Code,Santa Cruz de la Sierra,Masculino,Básico,Básico,Intermedio
+7,Persona 7,29,90.5,1.78,Bajo,Nulo,"Python, Otros",Ninguno,Otro,Santa Cruz de la Sierra,Masculino,Básico,Intermedio,Básico
+8,Persona 8,25,,1.63,Nulo,Nulo,"Python, Otros",Otro,Ninguno,Santa Cruz de la Sierra,Femenino,Básico,Básico,Básico
+9,Persona 9,31,60,1.64,Medio,Bajo,Python,Ninguno,Ninguno,Santa Cruz de la Sierra,Femenino,Básico,Básico,Básico
+10,Persona 10,49,60,1.55,Bajo,Bajo,"Python, JavaScript, C++, Object pascal, PHP, Otros",C++,Visual Studio Code,Oruro,Femenino,Básico,Básico,Intermedio
+11,Persona 11,36,93,1.65,Medio,Bajo,"Python, JavaScript, C++, C#",Otro,Java,Santa Cruz de la Sierra,Masculino,Básico,Básico,Avanzado
+12,Persona 12,29,85,1.7,Bajo,Bajo,"Python, C#",Python,Visual Studio Code,La Paz,Masculino,Básico,Básico,Intermedio
+13,Persona 13,33,80,1.69,Bajo,Medio,"Python, C++, PHP",Python,Otro,Santa Cruz de la Sierra,Masculino,Básico,Intermedio,Básico
+14,Persona 14,35,,1.64,Medio,Bajo,"Python, JavaScript, C++, C#, PHP, Otros",PHP,Visual Studio Code,La Paz,Masculino,Intermedio,Intermedio,Avanzado
+15,Persona 15,38,70,1.67,Bajo,Bajo,"Python, JavaScript, C#, PHP, Otros",Otro,Jetbrains,Cochabamba,Masculino,Básico,Básico,Intermedio
+16,Persona 16,38,74.1,1.59,Bajo,Nulo,"Python, JavaScript, PHP, Otros",Otro,Visual Studio Code,Cochabamba,Masculino,Básico,Básico,Avanzado
+17,Persona 17,40,50.5,1.57,Bajo,Nulo,Otros,Ninguno,Java,Santa Cruz de la Sierra,Femenino,Básico,Básico,Básico
+18,Persona 18,47,72.5,1.68,Bajo,Bajo,"Python, JavaScript, C++, PHP, Otros",Otro,Visual Studio Code,La Paz,Masculino,Básico,Básico,Intermedio
+19,Persona 19,46,65,1.76,Bajo,Nulo,Python,Python,Visual Studio Code,Sucre,Masculino,Básico,Básico,Básico
+20,Persona 20,40,72,151,Nulo,Bajo,"C++, PHP",Ninguno,Ninguno,Santa Cruz de la Sierra,Femenino,Nullo,Nullo,Básico
+21,Persona 21,39,60,1.58,Nulo,Bajo,"Python, Object pascal, Otros",Otro,Java,Otra ciudad dentro del un departamento,Femenino,Básico,Básico,Intermedio
+22,Persona 22,39,95,1.74,Bajo,Bajo,"Python, JavaScript, C#, Object pascal, PHP",C#,Jetbrains,Santa Cruz de la Sierra,Masculino,Intermedio,Básico,Avanzado
+23,Persona 23,35,,1.64,Medio,Bajo,"Python, JavaScript, C++, C#, PHP, Otros",PHP,Visual Studio Code,La Paz,Masculino,Intermedio,Intermedio,Avanzado
+24,Persona 24,36,90,1.87,Medio,Medio,"JavaScript, C++, PHP, Otros",JavaScript,Visual Studio Code,Santa Cruz de la Sierra,Masculino,Básico,Básico,Intermedio
+25,Persona 25,32,100,1.8,Medio,Nulo,"Python, C++",Python,Visual Studio Code,Santa Cruz de la Sierra,Masculino,Intermedio,Intermedio,Intermedio
+26,Persona 26,35,50.5,1.5,Bajo,Nulo,PHP,Ninguno,Visual Studio Code,Santa Cruz de la Sierra,Femenino,Básico,Básico,Básico
+27,Persona 27,38,72,1.6,Medio,Bajo,"Python, C++, PHP",Python,Visual Studio Code,Santa Cruz de la Sierra,Femenino,Básico,Básico,Intermedio
+28,Persona 28,27,87,1.87,Medio,Medio,"Python, C#, PHP, Otros",C#,Visual Studio Code,Santa Cruz de la Sierra,Masculino,Básico,Básico,Básico
+29,Persona 29,45,68.5,1.5,Nulo,Nulo,"Python, JavaScript, PHP",PHP,Visual Studio Code,Cochabamba,Femenino,Básico,Básico,Intermedio
+30,Persona 30,43,60,1.55,Nulo,Nulo,"Python, JavaScript, C#, PHP",C#,Visual .net,La Paz,Femenino,Básico,Básico,Intermedio
+31,Persona 31,34,95,1.69,Nulo,Nulo,"Python, Object pascal, Otros",Python,Pycharm,Santa Cruz de la Sierra,Masculino,Intermedio,Básico,Intermedio
+32,Persona 32,34,73,1.77,Medio,Bajo,"Python, JavaScript, C++, C#, PHP",Python,Visual Studio Code,Santa Cruz de la Sierra,Masculino,Básico,Básico,Básico
+33,Persona 33,39,86,1.73,Bajo,Bajo,"Python, JavaScript, PHP",PHP,Visual Studio Code,Santa Cruz de la Sierra,Masculino,Básico,Básico,Intermedio
+34,Persona 34,39,95,1.74,Bajo,Bajo,"Python, JavaScript, C#, PHP",C#,Jetbrains,Santa Cruz de la Sierra,Masculino,Intermedio,Básico,Avanzado
+35,Persona 35,32,80,1.74,Bajo,Medio,"Python, JavaScript, PHP, Otros",JavaScript,Visual Studio Code,La Paz,Masculino,Intermedio,Básico,Intermedio
